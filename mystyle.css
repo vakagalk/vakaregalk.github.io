@@ -1,0 +1,40 @@
+	body {background-color:#FEEEDC;
+	text-align:center;}
+	p {color:#975102;
+		font-weight:bold;
+		font-size:15pt;}
+	ul {color:#342009;
+		font-size:15pt; }
+	.pirma {font-size:25pt;
+		color: #342009;}
+	.antra {font-size: 20pt;
+		color:#342009;}
+	#autorius {color:#342009;
+		font-size:15pt;
+		weight:bold;}
+	a:link {
+    color: red;
+	text-decoration: none;
+	}
+	a:visited {
+    color: orange;
+	}
+	a:hover {
+		font-size: 140%;
+	}
+	table, td {
+		border: 2px solid brown
+	}
+	table {
+		margin: auto;
+		width: 50%;
+		text-align: center;
+	}
+	.trecia {
+		background-color: white;
+		font-size: 15pt;
+	}
+	.ketvirta {
+		vertical-align: middle;
+		height:200px;
+	}
